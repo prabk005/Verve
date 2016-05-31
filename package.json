@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "Demo for Review",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhdeep Kaur",
+  "license": "ISC",
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/prabk005/Verve"
+  },
+  "dependencies" : {
+    "express": "3.x"
+  },
+  "devDependencies" : {
+    "express": "3.x"
+  }
+}
